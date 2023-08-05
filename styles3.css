@@ -1,0 +1,193 @@
+
+
+/* NAVBAR */
+
+.navbar-brand{
+
+  font-size: 3rem;
+  font-weight: bold;
+  margin-left: 20px;
+  font-family: 'Poppins', sans-serif;
+  color: #2B2A4C
+  }
+
+.nav-item{
+  padding: 0 18px;
+  font-size: 1.3rem;
+  font-family: Montserrat;
+  font-weight: ;
+  color: #2B2A4C
+
+}
+.feat-img1{
+  float: left;
+  height: 300px;
+  width: 350px;
+  padding: 20px;
+  border-radius: 10%;
+}
+.feat-img2{
+  float: right;
+  height: 300px;
+  width: 350px;
+  padding: 20px;
+  border-radius: 10%;
+}
+
+.but{
+  width: 100%;
+}
+
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+
+
+/* FOOTER */
+
+#footer{
+  text-align: center;
+  padding: 150px;
+  font-family: Ubuntu;
+}
+
+.footer-img{
+  height: 30px;
+  width: 30px;
+  margin: 50px;
+}
+
+
+.quote{
+font-family: 'Great Vibes', cursive;
+  font-size: 5rem;
+  line-height: 1.5;
+  letter-spacing: 2;
+  /* font-weight: bold; */
+  padding: 15%;
+}
+.author{
+  position: absolute;
+  bottom:20%;
+  right:20%;
+  font-weight: bold;
+}
+#title{
+  background-color:#ECCDB4;
+  color: #2B2A4C;
+}
+
+#features{
+  background-color:#2B2A4C;
+  color: #ECCDB4;
+}
+.features-title{
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  text-align: center;
+  font-size: 4rem;
+  margin: 20px;
+}
+
+.fh2{
+  font-size: 3rem;
+  font-family: Montserrat;
+  margin: 30px;
+
+}
+.fh6{
+  font-family: Montserrat;
+  line-height: 2;
+  margin: 10px;
+
+}
+#pricing{
+  padding: 40px;
+  text-align: center;
+  background-color:#ECCDB4;
+  color:#000;
+
+}
+.cards{
+  padding: 3% 3%;
+  background-color:#ECCDB4;
+  color:#000;
+  border-radius: 0%;
+
+
+}
+.ph2{
+  font-size: 3rem;
+  font-family: Montserrat;
+  margin-bottom: 50px;
+}
+.parah2{
+  font-size: 2rem;
+font-family: 'Diphylleia', serif;
+margin-bottom: 30px;
+font-weight: bold;
+}
+.ph6{
+  font-family: Montserrat;
+  line-height: 2;
+  margin: 10px;
+}
+
+.price-img{
+  padding-bottom: 20px;
+  height: 100%;
+  width: 100%;
+  border-radius: 10%;
+}
+.th2{
+  font-family: 'Grandiflora One', serif;
+  color:#2B2A4C;
+  font-weight: bold;
+  line-height: 1.5;
+}
+#testimonials{
+  text-align: center;
+  background-color: #ECCDB4;
+  color: #2B2A4C;
+}
+
+.testimonial-image{
+  height: 20%;
+  width: 20%;
+  border-radius: 100%;
+  margin: 30px;
+  border-style: solid;
+
+}
+
+.trip-photo{
+  height: 25%;
+  width: 25%;
+  padding: 10px 50px;
+  border-radius: 30%;
+}
+
+.arrow{
+  background-color: #2B2A4C;
+  height: 10%;
+  width: 10%;
+  top: 50%;
+
+}
+
+#mybutton{
+  position: fixed;
+  bottom: -4px;
+  right:10px;
+}
+.book{
+  background-color: #2B2A4C;
+  color: white;
+  padding: 15px 25px;
+  border-radius: 4px;
+}
+a{
+  color: white;
+}
